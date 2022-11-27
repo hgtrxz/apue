@@ -16,7 +16,6 @@ int main(int argc, char *argv[])
     case O_RDONLY:
         printf("read only");
         break;
-
     case O_WRONLY:
         printf("write only");
         break;
